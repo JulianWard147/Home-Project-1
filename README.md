@@ -18,7 +18,7 @@ The story goes something along the lines that some airforce, was trying to use d
 
 I want to explore this problem with Python, not theory. I spent too much time building a Monte Hall Problem simulator in my bootcamp, well past the point where I needed to. It was great practice though. So this project is me getting back to that balance of having an overall goal while still learning and exploring in a less structured way. I'm going to give myself subgoals as I go along, basically until I lose interest or get busy with other tasks. Stage one is going to be building a 'plane'. Next I need to shoot at it. Then I need to add armor, and probably think about how to analyze my 'returning' planes.
 
-### Stage 1:
+At the start of each 'Stage' I'll lay out how I plan to tackle each problem, and at the end I'll look back at what I got right, what I got wrong, and what I learned.
 
 I imagine the repo will be organized something like:
 
